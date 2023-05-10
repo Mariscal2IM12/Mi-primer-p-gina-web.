@@ -1,0 +1,90 @@
+<html>
+<head> <title> 1a página de Mijahel</title>
+</head>
+<body background= "hk.jpeg" style="background-repeat: no-repeat; background-position: center center;">
+
+<center>Mi primera página web<br>
+Autor: Raúl<br>
+Para: Computación Básica II<br>
+En: CECyT No. 3 "ERR"<br><br></center>
+
+<h1>La familia es primero</h1>
+<h2>La familia es primero</h2>
+<h3>La familia es primero</h3>
+<h4>La familia es primero</h4>
+<h5>La familia es primero</h5>
+<h6>La familia es primero</h6>
+
+<b><i>Lema:</i> <u>La técnica al servicio de la patria</b></u><br><br>
+
+
+<s><small>Morir</s></small>... <big>La vida es bella</big><br><br>
+
+
+H<sub>2</sub>O<br>
+
+X<sup>2</sup> + Y<sup>2</sup><br><br>
+
+
+<font size=1 color="Blue" face="Algerian">Vive sin drogas</font><br>
+<font size=2 color="Purple" face="Arial">Vive sin drogas</font><br>
+<font size=3 color="Fucsia" face="Chiller">Vive sin drogas</font><br>
+<font size=4 color="LigtBlue" face="Bookman">Vive sin drogas</font><br>
+<font size=5 color="DarkBlue" face="Cooper">Vive sin drogas</font><br>
+<font size=6 color="Ivory" face="Times New Roman">Vive sin drogas</font><br>
+<font size=7 color="#FF0000" face="Forte">Vive sin drogas</font><br><br>
+
+
+<blockquote>Sé feliz<br></blockquote>
+<blockquote><blockquote>Sé feliz<br></blockquote></blockquote>
+<blockquote><blockquote><blockquote>Sé feliz<br></blockquote></blockquote></blockquote>
+<blockquote><blockquote><blockquote><blockquote>Sé feliz<br></blockquote></blockquote></blockquote></blockquote>
+<blockquote><blockquote><blockquote><blockquote><blockquote>Sé feliz<br></blockquote></blockquote></blockquote></blockquote></blockquote><br><br>
+
+
+<blockquote>Sé feliz<br>
+<blockquote>Sé feliz<br>
+<blockquote>Sé feliz<br>
+<blockquote>Sé feliz<br>
+<blockquote>Sé feliz<br></blockquote></blockquote></blockquote></blockquote></blockquote>
+<blockquote><blockquote><blockquote><blockquote><blockquote>Sé feliz<br></blockquote>
+Sé feliz<br></blockquote>
+Sé feliz<br></blockquote>
+Sé feliz<br></blockquote>
+Sé feliz<br><br></blockquote><br><br>
+
+
+<blockquote>Sé feliz<br>
+<blockquote>Sé feliz<br>
+<blockquote>Sé feliz<br>
+<blockquote>Sé feliz<br>
+<blockquote>Sé feliz<br>
+Sé feliz<br></blockquote>
+Sé feliz<br></blockquote>
+Sé feliz<br></blockquote>
+Sé feliz<br></blockquote>
+Sé feliz<br></blockquote><br><br>
+
+
+<h1><marquee bgcolor="DeepSkyBlue">Son increíbles</marquee><h1><br><br>
+
+
+<p align="left"><b><i>Misión Institucional</b></i>
+Institución educativa del Estado que forma integralmente a técnicos, profesionistas e investigadores a través de programas pertinentes en diversas áreas del conocimiento, que realiza investigación científica y tecnológica; promueve la innovación y fomenta la vinculación y extensión con los sectores productivo y social, para contribuir al desarrollo tecnológico, económico, político, social y cultural del país.</p>
+
+<p align="right center"><b><i>Visión</b></i>
+Ser referente de la educación superior tecnológica en México y el mundo por la excelencia de la formación que brinda, el conocimiento científico de vanguardia que genera, las soluciones innovadoras que aporta a los problemas nacionales, y sus contribuciones a la transformación del país, en un ambiente de inclusión, libertad, equidad, transparencia y democracia.</p>
+
+<p align="center"><b><i>Misión Institucional</b></i>
+Institución educativa del Estado que forma integralmente a técnicos, profesionistas e investigadores a través de programas pertinentes en diversas áreas del conocimiento, que realiza investigación científica y tecnológica; promueve la innovación y fomenta la vinculación y extensión con los sectores productivo y social, para contribuir al desarrollo tecnológico, económico, político, social y cultural del país.</p>
+
+<p align="justifer"><b><i>Visión</b></i>
+Ser referente de la educación superior tecnológica en México y el mundo por la excelencia de la formación que brinda, el conocimiento científico de vanguardia que genera, las soluciones innovadoras que aporta a los problemas nacionales, y sus contribuciones a la transformación del país, en un ambiente de inclusión, libertad, equidad, transparencia y democracia.</p>
+
+
+
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>
